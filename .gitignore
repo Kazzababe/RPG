@@ -1,0 +1,26 @@
+# Output folder
+target/
+
+# Netbeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Ignore user-specific files and unimportant files:
+.idea/copyright/
+.idea/uiDesigner.xml
+.idea/workspace.xml
+.idea/tasks.xml
+
+# I believe you can ignore this folder
+.idea/libraries/
+
+# Ignore ide specific files
+dependency-reduced-pom.xml
+.classpath
+.project
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs

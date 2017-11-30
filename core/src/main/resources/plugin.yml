@@ -1,0 +1,4 @@
+name: RPG
+main: ravioli.gravioli.rpg.RPG
+version: 0.1
+description: RPG
